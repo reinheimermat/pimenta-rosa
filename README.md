@@ -13,7 +13,7 @@
 
 ## Libs 📕
 
-📑 **Lucide ICONS**
+📑 **LUCIDE ICONS**
 
 📑 **ESLINT**
 
