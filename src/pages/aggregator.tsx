@@ -71,7 +71,7 @@ export function Aggregator() {
         </div>
       </main>
 
-      <footer className="mt-auto flex w-full justify-center gap-32 bg-gray-300 py-4">
+      <footer className="mt-auto flex w-full items-center justify-between bg-gray-300 p-4 pb-6">
         <div className="flex flex-col items-center gap-1">
           <Home className="size-6" />
           <p className="text-sm text-gray-100">Home</p>
