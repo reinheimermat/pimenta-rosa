@@ -1,6 +1,10 @@
+import { Aggregator } from './pages/aggregator'
+
 function App() {
   return (
-    <h1>Hello World</h1>
+    <>
+      <Aggregator />
+    </>
   )
 }
 
