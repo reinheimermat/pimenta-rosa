@@ -71,7 +71,7 @@ export function Aggregator() {
         </div>
       </main>
 
-      <footer className="mt-auto flex w-full items-center justify-between bg-gray-300 p-4 pb-6">
+      <footer className="mt-auto flex w-full items-center justify-between bg-gray-300 px-8 pb-6 pt-4">
         <div className="flex flex-col items-center gap-1">
           <Home className="size-6" />
           <p className="text-sm text-gray-100">Home</p>
@@ -82,7 +82,7 @@ export function Aggregator() {
         </div>
         <div className="flex flex-col items-center gap-1">
           <Library className="size-6 stroke-zinc-700" />
-          <p className="text-sm text-gray-100">Your Library</p>
+          <p className="text-sm text-gray-100">Library</p>
         </div>
       </footer>
     </div>
