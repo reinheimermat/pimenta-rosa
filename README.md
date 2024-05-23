@@ -1,30 +1,53 @@
-# React + TypeScript + Vite
+# Spotify Links (pt-BR)
+[![Banner](./src/assets/thumb.jpg)](#)
+***Links Aggregator for Instagram***
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Status: Finished... ✅
 
-Currently, two official plugins are available:
+## Technologies 🚀
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## Expanding the ESLint configuration
+## Libs 📕
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+📑 **Lucide ICONS**
 
-- Configure the top-level `parserOptions` property like this:
+📑 **ESLINT**
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
+## Features 💡
+
+✅ **ARTIST LINKS**
+
+✅ **ARTIST PORTFOLIO**
+
+## How do use the project ⚙️
+
+### 1. Clone the repository
+```sh
+git clone https://github.com/reinheimermat/pimenta-rosa
+```
+### 2. install dependencies
+```sh
+npm install
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+### 3. Run local project
+```sh
+npm run dev
+```
+### 4. Access the project
+```sh
+http://localhost:5173/
+```
+
+## License 📝
+
+[![licence](https://img.shields.io/github/license/reinheimermat/discover.svg)](https://github.com/Ileriayo/markdown-badges/blob/master/LICENSE)
+
+## Links 🔗
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reinheimermat/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatoreinheimer@gmail.com)
